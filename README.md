@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ELITEICON Logo](https://eliteicon.pages.dev/api/icons/terminal.svg)
+![ELITEICON Logo](https://raw.githubusercontent.com/kamrullab/eliteicon/refs/heads/main/assets/Icon-Image.png)
 
 **Elite collection of 1000+ colorful SVG icons for developers and hackers**
 
