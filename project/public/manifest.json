@@ -1,0 +1,21 @@
+{
+  "name": "ELITEICON - Elite Kamrul Icon Library",
+  "short_name": "ELITEICON",
+  "description": "Elite collection of 1000+ colorful SVG icons for developers and hackers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ff41",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/api/icons/terminal.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["developer-tools", "utilities"],
+  "lang": "en",
+  "dir": "ltr"
+}

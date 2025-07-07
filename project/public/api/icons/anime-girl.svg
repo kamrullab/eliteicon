@@ -1,0 +1,8 @@
+<svg viewBox="0 0 24 24" fill="none" stroke="#f8bbd9" stroke-width="2">
+  <circle cx="12" cy="12" r="8"/>
+  <path d="M8 10s1-2 4-2 4 2 4 2"/>
+  <circle cx="10" cy="12" r="1"/>
+  <circle cx="14" cy="12" r="1"/>
+  <path d="M10 15s1 1 2 1 2-1 2-1"/>
+  <path d="M6 6c2-2 4-1 6-1s4-1 6 1"/>
+</svg>
