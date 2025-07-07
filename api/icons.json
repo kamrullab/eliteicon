@@ -1,0 +1,142 @@
+[
+  {
+    "id": "terminal",
+    "name": "Terminal",
+    "category": "Developer",
+    "color": "#00ff41",
+    "tags": ["console", "command", "cli", "bash", "shell"]
+  },
+  {
+    "id": "code-editor",
+    "name": "Code Editor",
+    "category": "Developer",
+    "color": "#ff6b35",
+    "tags": ["ide", "vscode", "editor", "programming"]
+  },
+  {
+    "id": "git-branch",
+    "name": "Git Branch",
+    "category": "Developer",
+    "color": "#f39c12",
+    "tags": ["version", "control", "github", "repository"]
+  },
+  {
+    "id": "api",
+    "name": "API",
+    "category": "Developer",
+    "color": "#9b59b6",
+    "tags": ["rest", "endpoint", "service", "integration"]
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "category": "Developer",
+    "color": "#0db7ed",
+    "tags": ["container", "deployment", "devops", "virtualization"]
+  },
+  {
+    "id": "cartoon-cat",
+    "name": "Cartoon Cat",
+    "category": "Cartoon",
+    "color": "#ff6b6b",
+    "tags": ["cute", "pet", "animal", "kawaii"]
+  },
+  {
+    "id": "cartoon-dog",
+    "name": "Cartoon Dog",
+    "category": "Cartoon",
+    "color": "#ffa726",
+    "tags": ["puppy", "pet", "animal", "cute"]
+  },
+  {
+    "id": "anime-girl",
+    "name": "Anime Girl",
+    "category": "Anime",
+    "color": "#f8bbd9",
+    "tags": ["manga", "kawaii", "character", "japanese"]
+  },
+  {
+    "id": "anime-sword",
+    "name": "Anime Sword",
+    "category": "Anime",
+    "color": "#90a4ae",
+    "tags": ["katana", "weapon", "samurai", "blade"]
+  },
+  {
+    "id": "lock",
+    "name": "Lock",
+    "category": "Security",
+    "color": "#e74c3c",
+    "tags": ["secure", "password", "protection", "private"]
+  },
+  {
+    "id": "home",
+    "name": "Home",
+    "category": "UI Essentials",
+    "color": "#3498db",
+    "tags": ["house", "main", "start", "dashboard"]
+  },
+  {
+    "id": "wifi",
+    "name": "WiFi",
+    "category": "Network",
+    "color": "#3498db",
+    "tags": ["wireless", "internet", "connection", "signal"]
+  },
+  {
+    "id": "database",
+    "name": "Database",
+    "category": "Database",
+    "color": "#e67e22",
+    "tags": ["data", "storage", "sql", "records"]
+  },
+  {
+    "id": "cloud-upload",
+    "name": "Cloud Upload",
+    "category": "Cloud",
+    "color": "#3498db",
+    "tags": ["upload", "sync", "storage", "remote"]
+  },
+  {
+    "id": "smartphone",
+    "name": "Smartphone",
+    "category": "Mobile",
+    "color": "#34495e",
+    "tags": ["phone", "mobile", "device", "app"]
+  },
+  {
+    "id": "kh-logo",
+    "name": "KH Logo",
+    "category": "Developer",
+    "color": "#00ff41",
+    "tags": ["kamrul", "hacker", "logo", "brand", "elite", "kh"]
+  },
+  {
+    "id": "ek-logo",
+    "name": "EK Logo",
+    "category": "Developer",
+    "color": "#ff6b35",
+    "tags": ["elite", "kamrul", "logo", "brand", "developer", "ek"]
+  },
+  {
+    "id": "kh-shield",
+    "name": "KH Shield",
+    "category": "Security",
+    "color": "#9b59b6",
+    "tags": ["kamrul", "hacker", "security", "shield", "protection", "kh"]
+  },
+  {
+    "id": "ek-badge",
+    "name": "EK Badge",
+    "category": "Developer",
+    "color": "#f39c12",
+    "tags": ["elite", "kamrul", "badge", "award", "achievement", "ek"]
+  },
+  {
+    "id": "kamrul-signature",
+    "name": "Kamrul Signature",
+    "category": "Developer",
+    "color": "#e74c3c",
+    "tags": ["kamrul", "signature", "personal", "brand", "developer", "elite"]
+  }
+]
