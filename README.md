@@ -1,4 +1,4 @@
-# 🚀 ELITEICON - Elite Kamrul Icon Library
+# 🚀 ELITEICON - ELITE KAMRUL ICON LIBRARY
 
 <div align="center">
 
