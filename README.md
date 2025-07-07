@@ -382,9 +382,9 @@ We welcome contributions! Here's how you can help:
 
 ## 🤝 **Community**
 
-- 💬 **Discord**: [Join our community](https://discord.gg/eliteicon)
-- 🐦 **Twitter**: [@kamrullab](https://twitter.com/kamrullab)
-- 📧 **Email**: kamrul@eliteicon.dev
+- 💬 **Discord**: [Join our community](https://m.me/elitekamrul)
+- 🐦 **Twitter**: [@kamrullab](https://twitter.com/elitekamrul)
+- 📧 **Email**: engineer@kamrul.us
 - 🐛 **Issues**: [GitHub Issues](https://github.com/kamrullab/eliteicon/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/kamrullab/eliteicon/discussions)
 
